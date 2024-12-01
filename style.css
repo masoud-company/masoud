@@ -1,0 +1,12 @@
+
+.box-a {
+   background-image: url(images\ \(1\).jpeg);
+    width: 340px;
+    margin-left: 460px;
+    padding: 20px;
+   line-height: 35px;
+   border: solid;
+   border-color: rgb(0, 0, 0);
+  text-align: left;
+  text-shadow: 0cap;
+}
